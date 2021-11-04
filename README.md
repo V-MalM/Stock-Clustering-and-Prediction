@@ -1,4 +1,4 @@
-## Stock Clustering and Prediction - A Deep Learning Time Series Analysis & Forecasting
+## Stock Clustering and Prediction - Deep Learning, Time Series Analysis & Forecasting
 
 ____________________________________________________
 
